@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#getting-started {
+  background-image: url("../images/banner.svg");
+}
+
+.hamburger {
+  height: 24px;
+  width: 24px;
+}
+
+.hamburger-line-1 {
+  height: 3px;
+  background-color: #111;
+}
+
+.hamburger-line-2 {
+  height: 3px;
+  background-color: #111;
+}
+
+.hamburger-line-3 {
+  height: 3px;
+  background-color: #111;
+}
